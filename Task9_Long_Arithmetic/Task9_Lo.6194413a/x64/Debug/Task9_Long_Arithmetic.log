@@ -1,0 +1,12 @@
+﻿  task9.cpp
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(53,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(125,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(134,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(205,39): warning C4244: '+=': conversion from 'll' to '_Ty', possible loss of data
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(205,39): warning C4244:         with
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(205,39): warning C4244:         [
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(205,39): warning C4244:             _Ty=int
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(205,39): warning C4244:         ]
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(227,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Basics of programming\Task9_Long_Arithmetic\task9.cpp(277,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task9_Long_Arithmetic.vcxproj -> D:\Basics of programming\Task9_Long_Arithmetic\x64\Debug\Task9_Long_Arithmetic.exe

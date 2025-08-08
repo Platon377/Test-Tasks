@@ -1,0 +1,3 @@
+﻿  task7.cpp
+D:\Basics of programming\Task7_Pinatas\task7.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Task7_Pinatas.vcxproj -> D:\Basics of programming\Task7_Pinatas\x64\Debug\Task7_Pinatas.exe

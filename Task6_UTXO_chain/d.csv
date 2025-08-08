@@ -1,0 +1,6 @@
+id;inputs;outputs
+tx1;base;"u1; u2"
+tx2;u1;"u3;u4"
+tx3;u4;"u5;u6"
+tx4;u2;"u7;u8"
+tx5;u8;"u9;u10"
